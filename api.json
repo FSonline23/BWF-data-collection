@@ -1,0 +1,9 @@
+{
+	"bearerToken": "2|NaXRu9JnMpSdb8l86BkJxj6gzKJofnhmExwr8EWkQtHoattDAGimsSYhpM22a61e1crjTjfIGTKfhzxA",
+	"apiEndPoint_getTournaments": "",
+	"apiEndPoint_getMatches": "",
+	"apiEndPoint_getCurrentRankings": "",
+	"apiEndPoint_getRankingsHistory": "",
+	"apiEndPoint_search": "",
+	"apiEndPoint_athleteProfile": ""
+}
